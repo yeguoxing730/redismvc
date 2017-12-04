@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="mvc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/../core/.idea/workspace.xml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512384069357" ignored="false" />
+    <file path="/ExampleController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512354562142" ignored="false" />
+    <file path="/AppTests.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512376808993" ignored="false" />
+    <file path="/AppConfig.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512368242786" ignored="false" />
+    <file path="/Book.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512361462294" ignored="false" />
+    <file path="/BookAppService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512361987829" ignored="false" />
+    <file path="/script.sql" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512365251566" ignored="false" />
+    <file path="/UserMapper.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512365469878" ignored="false" />
+    <file path="/Dummy.txt" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383898598" ignored="false" />
+    <file path="/UserService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512365974244" ignored="false" />
+    <file path="/jdbc.properties" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512366224065" ignored="false" />
+    <file path="/redis.properties" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512366262923" ignored="false" />
+    <file path="/a.dummy" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382402008" ignored="false" />
+    <file path="/fragment.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382356473" ignored="false" />
+    <file path="/UserServiceImpl.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512373374514" ignored="false" />
+    <file path="/UserController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512373296381" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sprintboot/springbootmvc/src/main/java/com/boot/util/TestRedisLock.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512377345277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sprintboot/springbootmvc/pom.xml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512380217576" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sprintboot/springbootmvc/src/main/java/com/boot/util/RedisLockThread.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512377345277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sprintboot/springbootmvc/src/main/java/com/boot/util/RedisLockUtil.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512379858533" ignored="false" />
+    <file path="/HelloController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512377059242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sprintboot/springbootmvc/.idea/libraries/Maven__junit_junit_4_8_2.xml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512377345277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../annotationmvc/pom.xml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512381367295" ignored="false" />
+    <file path="$PROJECT_DIR$/../../annotationmvc/HelloWorld.iml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512381038586" ignored="false" />
+    <file path="$PROJECT_DIR$/../../annotationmvc/src/main/java/com/boot/aop/WebLogAspect.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512381343050" ignored="false" />
+    <file path="$PROJECT_DIR$/../../annotationmvc2/src/main/main.iml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512381627113" ignored="false" />
+    <file path="$PROJECT_DIR$/../../annotationmvc2/.idea/workspace.xml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512381758014" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/pom.xml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382479067" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382050326" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/webapp/WEB-INF/web.xml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382050326" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/springapp/mvc/HelloController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382050326" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/interceptor/MyInterceptor.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/util/RedisLockUtil.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/entity/DemoInfo.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/web/TemplateController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/config/MyBatisConfiguration.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/solr/SolrSearchJobs.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/service/impl/JMSClientServiceImpl.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/servlet/MyServlet.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/config/MyWebAppConfigurer.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/dao/DemoInfoRepository.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/bean/TestReplaceBean.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/web/RabbitMQController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/mapper/DemoMappper.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/bean/FilePath.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/util/RedisLockThread.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/dao/JPADemoRepositoryEntityManager.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/config/RepositoryConfiguration.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/aop/WebLogAspect.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/service/DemoInfoService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/bean/TestBean.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/environment/MyEnvironmentAware.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/bean/DoubleTest.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/util/TestRedisLock.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/dao/JDBCTemplateDemoDao.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/web/JMSController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/service/JMSClientService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/email/MailSenderService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/config/ReadPropertiesSetting.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/servlet/DruidStatViewServlet.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/service/DemoService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/config/DruidConfiguration.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/service/StoreService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/solr/TestSolrQuery.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/message/Sender.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/web/RedisDemoInfoController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/entity/Demo.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/interceptor/MyInterceptorTwo.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/web/DemoController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/util/SpringUtil.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/runner/MyStartupRunnerTwo.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/solr/TestSolrGroupQuery.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/runner/MyStartupRunnerOne.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/HealthIndicator/MyHealth.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/service/impl/DemoInfoServiceImpl.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/service/impl/StoreServiceImpl.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/filter/DruidStatFilter.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/web/HelloWorldController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/exception/GlobalDefaultExceptionHandler.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/filter/CharacterEncodingFilter.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/bean/DemoBean.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/web/FileUploadController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/config/SchedulingConfig.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/service/JMSSimpleListener.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/config/RedisCacheConfig.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/bean/EquailTest.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/bean/TestDateBean.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382090195" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/listener/MyHttpSessionListener.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/config/AmqpConfig.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/web/DataBaseDemoController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/bean/OrderBean.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/listener/MyListener.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/web/MailController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/config/JmsJavaconfigApplication.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/boot/service/impl/DemoServiceImpl.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382088314" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/annotationmvc.iml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382133491" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/filedb.sql" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382200437" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/interceptor/MyInterceptor.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/util/RedisLockUtil.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/entity/DemoInfo.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/web/TemplateController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/config/MyBatisConfiguration.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382366337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/solr/SolrSearchJobs.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/service/impl/JMSClientServiceImpl.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/servlet/MyServlet.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/config/MyWebAppConfigurer.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/dao/DemoInfoRepository.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/bean/TestReplaceBean.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/web/RabbitMQController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/mapper/DemoMappper.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/bean/FilePath.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/util/RedisLockThread.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/dao/JPADemoRepositoryEntityManager.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/config/RepositoryConfiguration.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382366337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/aop/WebLogAspect.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/service/DemoInfoService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/bean/TestBean.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/environment/MyEnvironmentAware.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/bean/DoubleTest.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/util/TestRedisLock.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/dao/JDBCTemplateDemoDao.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382366337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/web/JMSController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/service/JMSClientService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/email/MailSenderService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/config/ReadPropertiesSetting.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/servlet/DruidStatViewServlet.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/service/DemoService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/config/DruidConfiguration.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/service/StoreService.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/solr/TestSolrQuery.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/message/Sender.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/web/RedisDemoInfoController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382366337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/entity/Demo.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/interceptor/MyInterceptorTwo.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/web/DemoController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382366337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/util/SpringUtil.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/runner/MyStartupRunnerTwo.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/solr/TestSolrGroupQuery.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/runner/MyStartupRunnerOne.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/HealthIndicator/MyHealth.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382366337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/service/impl/DemoInfoServiceImpl.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/service/impl/StoreServiceImpl.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/filter/DruidStatFilter.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382366337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/web/HelloWorldController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/exception/GlobalDefaultExceptionHandler.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/filter/CharacterEncodingFilter.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/bean/DemoBean.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/web/FileUploadController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382366337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/config/SchedulingConfig.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/service/JMSSimpleListener.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/config/RedisCacheConfig.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/bean/EquailTest.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/bean/TestDateBean.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/listener/MyHttpSessionListener.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/config/AmqpConfig.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382366337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/web/DataBaseDemoController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382366337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/bean/OrderBean.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/listener/MyListener.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/web/MailController.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/config/JmsJavaconfigApplication.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../annotationmvc/src/main/java/com/boot/service/impl/DemoServiceImpl.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512382365078" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/LongEventHandler2.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/Consumer.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/LongEventHandler5.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/IntEventExceptionHandler.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/LongEvent.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/LongEventHandler3.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/MultiProducerAndConsumerMain.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/LongEventMain.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/LongEventProducer.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/LongEventHandler1.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/LongEventFactory.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383525795" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/LongEventHandler4.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/src/main/java/java/disruptor/LongEventHandler.java" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383373960" ignored="false" />
+    <file path="$PROJECT_DIR$/../core/pom.xml" changelist="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" time="1512383553908" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mvc$AppTests_testEntity.coverage" NAME="AppTests.testEntity Coverage Results" MODIFIED="1512373576853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.springapp.mvc.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java" line="51" class="com.springapp.mvc.AppTests" package="com.springapp.mvc">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java" line="48" class="com.springapp.mvc.AppTests" package="com.springapp.mvc">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java" line="45" class="com.springapp.mvc.AppTests" package="com.springapp.mvc">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/springapp/service/TestService.java" line="18" class="com.springapp.service.TestService" package="com.springapp.service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/springapp/service/TestService.java" line="24" class="com.springapp.service.TestService" package="com.springapp.service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/springapp/service/TestService.java" line="29" class="com.springapp.service.TestService" package="com.springapp.service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/ExampleController.java" line="26" class="com.springapp.mvc.ExampleController" package="com.springapp.mvc">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/springapp/service/BookAppService.java" line="20" class="com.springapp.service.BookAppService" package="com.springapp.service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/springapp/config/AppConfig.java" line="32" class="com.springapp.config.AppConfig$1" package="com.springapp.config">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/springapp/config/MyBatisConfiguration.java" line="48" class="com.springapp.config.MyBatisConfiguration" package="com.springapp.config">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" line="15" class="com.springapp.mvc.HelloController" package="com.springapp.mvc">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mvc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HelloController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="1" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppTests.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="112" column="5" selection-start="4702" selection-end="4811" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisCacheConfig.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/RedisCacheConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="8" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="13" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="110" column="34" selection-start="3945" selection-end="3945" vertical-scroll-proportion="0.84409136">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/ExampleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="11" selection-start="797" selection-end="800" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="32" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="38" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j2.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="21" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/redis.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/filter/CharacterEncodingFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/config/MyBatisConfiguration.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/config/RedisCacheConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="344" />
+    <option name="y" value="80" />
+    <option name="width" value="2020" />
+    <option name="height" value="1242" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../annotationmvc" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springapp.filter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IDEA\ideaWorkspaces\java\mvc\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AppTests.testhellolog">
+    <configuration default="false" name="AppTests.test" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.springapp.mvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mvc" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.springapp.mvc" />
+      <option name="MAIN_CLASS_NAME" value="com.springapp.mvc.AppTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AppTests.bookTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.springapp.mvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mvc" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.springapp.mvc" />
+      <option name="MAIN_CLASS_NAME" value="com.springapp.mvc.AppTests" />
+      <option name="METHOD_NAME" value="bookTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AppTests.testEntity" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.springapp.mvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mvc" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.springapp.mvc" />
+      <option name="MAIN_CLASS_NAME" value="com.springapp.mvc.AppTests" />
+      <option name="METHOD_NAME" value="testEntity" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AppTests.testhellolog" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.springapp.mvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mvc" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.springapp.mvc" />
+      <option name="MAIN_CLASS_NAME" value="com.springapp.mvc.AppTests" />
+      <option name="METHOD_NAME" value="testhellolog" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.AppTests" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AppTests.test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AppTests.bookTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.AppTests.testEntity" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.AppTests.testhellolog" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AppTests.testhellolog" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AppTests.testEntity" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AppTests.bookTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AppTests.test" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd1e69a5-cf8c-40a5-ae78-1d0869e7a722" name="Default" comment="" />
+      <created>1512354315204</created>
+      <updated>1512354315204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="344" y="80" width="2020" height="1242" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2843952" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3402778" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26864147" sideWeight="0.7156048" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947975" sideWeight="0.67057765" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/filter/CharacterEncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="23" selection-start="325" selection-end="348" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="17" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="23" selection-start="736" selection-end="750" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="61" selection-start="1952" selection-end="1952" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/MyBatisConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="10" selection-start="1713" selection-end="1713" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="32" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="21" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/RedisCacheConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="8" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/ExampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="11" selection-start="797" selection-end="800" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="5" selection-start="4702" selection-end="4811" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="1" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="38" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="34" selection-start="3945" selection-end="3945" vertical-scroll-proportion="0.84409136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mvc:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mvc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
